@@ -1,1 +1,1 @@
-"Hello monkeys" -freiza
+"Hello, monkeys" -freiza
